@@ -22,6 +22,8 @@ If you use this code or IC3Net in your work, please cite the following:
 
 ## Installation
 
+This repository has been tested (to a limited extend, without gym-starcraft) with Python version 3.8.15.
+
 First, clone the repo and install ic3net-envs which contains implementation for Predator-Prey and Traffic-Junction
 
 ```
